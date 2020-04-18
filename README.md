@@ -12,6 +12,7 @@ Usage:
 3. Run vptools.py in Maya via execfile("c:/vptools/vptools.py")
 
 Press tab to browse available widgets.
+$NAMESPACE can be used in widget's scripts. It's substituted with a currently selected node's namespace.
 
 Overlays are used to make widgets visible in a viewport. It's just a Qt graphics view widget with a transparency set. No magic.
 Callbacks are installed to show and hide widgets when it's necessary.
