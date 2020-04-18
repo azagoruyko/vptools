@@ -4,13 +4,14 @@ Widgets can be attached to controls in a scene.
 
 ![Logo](/test.gif)
 
-Now it's in a development stage, ready for testing and improving :-)
+Now it's in a development stage, ready for testing and improving!
 
 Usage:
 1. Clone or download repository to some folder (c:/vptools)
 2. Open vptools.py, change VPToolsDirectory to your path (c:/vptools)
 3. Run vptools.py in Maya via execfile("c:/vptools/vptools.py")
-some hotkeys: tab (browse available widgets), insert (add widgets)
+
+Press tab to browse available widgets.
 
 Overlays are used to make widgets visible in a viewport. It's just a Qt graphics view widget with a transparency set. No magic.
 Callbacks are installed to show and hide widgets when it's necessary.
