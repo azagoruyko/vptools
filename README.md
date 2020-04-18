@@ -14,5 +14,7 @@ Usage:
 Press tab to browse available widgets.
 $NAMESPACE can be used in widget's scripts. It's substituted with a currently selected node's namespace.
 
+Widgets are saved as xml in maya/project/vptools or in vptools/controls
+
 Overlays are used to make widgets visible in a viewport. It's just a Qt graphics view widget with a transparency set. No magic.
 Callbacks are installed to show and hide widgets when it's necessary.
