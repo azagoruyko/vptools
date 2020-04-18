@@ -1,0 +1,5 @@
+<control type="0" position="115,267" size="100,40" label="" color="121,255,12" gradient="1" textColor="0,0,0" roundRadius="25" points="0 0,100 0,50 100" control="">
+<command>
+<![CDATA[print "hello world"]]>
+</command>
+</control>

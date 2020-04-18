@@ -1,0 +1,299 @@
+<props>
+<control type="2" position="51,276" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_middle_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="13,275" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_pinky_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="29,255" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_ring_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="49,255" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_middle_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="89,255" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_thumb_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="33,276" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_ring_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="92,275" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_thumb_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="9,255" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_pinky_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="72,276" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="R_index_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="69,255" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_index_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="195,275" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_thumb_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="0" position="86,348" rotation="0" invert="1" size="26,41" label="" color="144,8,255" gradient="1" textColor="0,0,0" roundRadius="25" points="0 0,25 25,5 25,5 50,0 50" control="R_leg_options_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="0" position="37,167" rotation="0" invert="1" size="26,41" label="" color="144,8,255" gradient="1" textColor="0,0,0" roundRadius="25" points="0 0,25 25,5 25,5 50,0 50" control="R_arm_options_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="42,153" rotation="0" invert="0" size="60,20" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_arm_fk_1_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="95,301" rotation="0" invert="0" size="50,20" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_leg_fk_1_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="95,344" rotation="0" invert="0" size="50,20" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_leg_fk_3_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="42,176" rotation="0" invert="0" size="60,20" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_arm_fk_2_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="57,131" rotation="0" invert="0" size="30,20" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_arm_shoulder_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="106,365" rotation="0" invert="0" size="30,30" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_leg_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="60,315" rotation="0" invert="0" size="30,30" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="R_leg_ik_polevector_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="42,198" rotation="0" invert="0" size="60,20" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_arm_fk_3_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="95,323" rotation="0" invert="0" size="50,20" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_leg_fk_2_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="30,222" rotation="0" invert="0" size="25,25" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="R_arm_ik_polevector_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="0" position="212,350" rotation="0" invert="0" size="26,41" label="" color="144,8,255" gradient="1" textColor="0,0,0" roundRadius="25" points="0 0,25 25,5 25,5 50,0 50" control="L_leg_options_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="58,219" rotation="0" invert="0" size="30,30" label="" color="28,168,255" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="R_arm_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="165,365" rotation="0" invert="0" size="30,30" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_leg_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="208,317" rotation="0" invert="0" size="30,30" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_leg_ik_polevector_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="154,343" rotation="0" invert="0" size="50,20" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_leg_fk_3_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="154,322" rotation="0" invert="0" size="50,20" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_leg_fk_2_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="154,300" rotation="0" invert="0" size="50,20" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_leg_fk_1_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="109,109" rotation="0" invert="0" size="80,14" label="" color="239,200,45" gradient="1" textColor="0,0,0" roundRadius="10" points="" control="M_head_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="0" position="174,61" rotation="0" invert="0" size="26,41" label="" color="144,8,255" gradient="1" textColor="0,0,0" roundRadius="25" points="0 0,25 25,5 25,5 50,0 50" control="M_head_options_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="113,241" rotation="0" invert="0" size="70,20" label="" color="239,200,45" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="M_spine_fk_1_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="113,216" rotation="0" invert="0" size="70,20" label="" color="239,200,45" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="M_spine_fk_2_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="0" position="113,266" rotation="0" invert="0" size="70,20" label="" color="187,239,45" gradient="1" textColor="0,0,0" roundRadius="25" points="0 0,100 0,50 100" control="M_spine_ik_1_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="252,252" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_ring_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="272,252" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_pinky_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="10,517" rotation="0" invert="0" size="117,30" label="main_control" color="255,225,103" gradient="0" textColor="0,0,0" roundRadius="10" points="" control="main_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="212,252" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_index_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="113,171" rotation="0" invert="0" size="70,20" label="" color="239,200,45" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="M_spine_fk_3_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="0" position="113,146" rotation="0" invert="0" size="70,20" label="" color="187,239,45" gradient="1" textColor="0,0,0" roundRadius="25" points="0 100,100 100,50 0" control="M_spine_ik_2_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="109,196" rotation="0" invert="0" size="80,15" label="" color="187,239,45" gradient="1" textColor="0,0,0" roundRadius="10" points="" control="M_spine_fix_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="113,126" rotation="0" invert="0" size="70,20" label="" color="239,200,45" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="M_neck_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="1" position="128,67" rotation="0" invert="0" size="41,41" label="" color="239,200,45" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="M_head_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="193,197" rotation="0" invert="0" size="60,20" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_arm_fk_3_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="209,218" rotation="0" invert="0" size="30,30" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_arm_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="193,175" rotation="0" invert="0" size="60,20" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_arm_fk_2_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="192,252" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_thumb_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="243,222" rotation="0" invert="0" size="25,25" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_arm_ik_polevector_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="193,152" rotation="0" invert="0" size="60,20" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_arm_fk_1_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="0" position="258,164" rotation="0" invert="0" size="26,41" label="" color="144,8,255" gradient="0" textColor="0,0,0" roundRadius="25" points="0 0,25 25,5 25,5 50,0 50" control="L_arm_options_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="208,130" rotation="0" invert="0" size="30,20" label="" color="255,0,0" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_arm_shoulder_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="232,252" rotation="0" invert="0" size="20,20" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="0" points="" control="L_middle_fk_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="10,562" rotation="0" invert="0" size="117,30" label="reset" color="255,225,103" gradient="0" textColor="0,0,0" roundRadius="10" points="" control="">
+<command>
+<![CDATA[import wizart.anim_utils as au
+au.general.resetControls($NAMESPACE)]]>
+</command>
+</control>
+<control type="2" position="10,592" rotation="0" invert="0" size="117,30" label="select all" color="255,225,103" gradient="0" textColor="0,0,0" roundRadius="10" points="" control="main_control">
+<command>
+<![CDATA[import wizart.anim_utils as au
+au.general.selectControls($NAMESPACE)]]>
+</command>
+</control>
+<control type="2" position="215,275" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_index_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="235,275" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_middle_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="255,275" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_ring_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+<control type="2" position="275,275" rotation="0" invert="0" size="15,15" label="" color="105,191,100" gradient="1" textColor="0,0,0" roundRadius="25" points="" control="L_pinky_ik_control">
+<command>
+<![CDATA[]]>
+</command>
+</control>
+</props>
