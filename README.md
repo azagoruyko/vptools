@@ -2,7 +2,7 @@
 Here is a toolset for Maya that provides a way of creating and editing widgets in a viewport. 
 Widgets can be attached to controls in a scene.
 
-![Logo](/ui.jpg)
+![Logo](/test.gif)
 
 Now it's in a development stage, ready for testing and improving :-)
 
